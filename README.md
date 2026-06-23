@@ -99,7 +99,7 @@ Then compile `popoko_setup.iss` in Inno Setup.
 
 **Developed by** Priyangshu Swarnakar
 
-**Special thanks to** Kiran Mukhiya
+**Special thanks to** [Kiran Mukhiya](https://github.com/KiranMukhiya)
 
 ---
 
