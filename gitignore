@@ -1,0 +1,26 @@
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Tool config and user data (local only)
+popoko_config.json
+popoko_prompts.json
+
+# Installer output
+installer_output/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
